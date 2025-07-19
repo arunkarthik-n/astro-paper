@@ -14,4 +14,8 @@ RUN pnpm run build
 # Runtime stage for serving the application
 FROM nginx:mainline-alpine-slim AS runtime
 COPY --from=base /app/dist /usr/share/nginx/html
+COPY nginx.conf.template /etc/nginx/conf.d/default.conf.template
+COPY start.sh /start.sh
+RUN chmod +x /start.sh
 EXPOSE 80
+CMD ["/start.sh"]
