@@ -55,6 +55,7 @@ pnpm run format:check
 - Posts support drafts, featured status, custom OG images, and timezone handling
 - Post filtering logic in `src/utils/postFilter.ts` handles draft and scheduled posts
 - Sorting by publication/modification date in `src/utils/getSortedPosts.ts`
+- **Archives**: Chronological view of ALL published posts at `/archives` route (controlled by `SITE.showArchives` in config.ts). To "archive" posts, set `draft: true` in frontmatter.
 
 ### Styling System
 - **TailwindCSS**: Primary styling framework with custom configuration
