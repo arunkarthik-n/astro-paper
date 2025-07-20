@@ -4,7 +4,7 @@ export const SITE = {
   profile: "https://www.linkedin.com/in/arun-karthik-n/",
   desc: "Building innovative solutions from AI foundations to web frontiers.",
   title: "Arun Karthik",
-  ogImage: "astropaper-og.jpg",
+  ogImage: "arundp.png",
   lightAndDarkMode: true,
   postPerIndex: 4,
   postPerPage: 4,
