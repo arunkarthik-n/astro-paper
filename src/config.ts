@@ -2,7 +2,7 @@ export const SITE = {
   website: "https://arunkarthik.com/", // replace this with your deployed domain
   author: "Arun Karthik",
   profile: "https://www.linkedin.com/in/arun-karthik-n/",
-  desc: "Building innovative solutions from mobile foundations to web frontiers.",
+  desc: "Building innovative solutions from AI foundations to web frontiers.",
   title: "Arun Karthik",
   ogImage: "astropaper-og.jpg",
   lightAndDarkMode: true,
