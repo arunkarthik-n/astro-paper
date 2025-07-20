@@ -1,6 +1,6 @@
 ---
 author: Arun Karthik
-pubDatetime: 2024-07-20T10:00:00Z
+pubDatetime: 2025-07-20T10:00:00Z
 title: "The AI Literacy Guide That Actually Matters"
 featured: true
 draft: false

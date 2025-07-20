@@ -1,6 +1,6 @@
 ---
 author: Arun Karthik
-pubDatetime: 2024-07-20T11:00:00Z
+pubDatetime: 2025-07-20T11:00:00Z
 title: "RAG Reality Check: Why 80% of Implementations Fail"
 featured: true
 draft: false
