@@ -8,7 +8,7 @@ tags: ["ai", "machine-learning", "llm", "context", "performance"]
 description: "The AI industry's obsession with context length is a cargo cult. New research reveals that stuffing more tokens into your prompt makes models perform worse, not better - with performance drops of 50% on real tasks."
 ---
 
-The AI industry's obsession with context length is a cargo cult. While vendors trumpet their "1M token context windows," a new paper from Chroma reveals what practitioners already suspected: stuffing more tokens into your prompt makes models perform worse, not better.
+The AI industry's obsession with context length is a cargo cult. While vendors trumpet their "1M token context windows," a [new paper from Chroma](https://research.trychroma.com/context-rot) reveals what practitioners already suspected: stuffing more tokens into your prompt makes models perform worse, not better.
 
 ## The Core Finding
 
