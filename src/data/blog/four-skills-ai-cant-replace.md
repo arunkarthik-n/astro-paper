@@ -8,8 +8,6 @@ tags: ["ai", "career", "skills", "future-of-work"]
 description: "Everyone's peddling 'future-proof' skills these days. After automating dozens of workflows, I've identified four skills that actually matter—not because they're trendy, but because they exploit the fundamental gaps between human and machine intelligence."
 ---
 
-# The Four Skills AI Can't Replace (And Why Most People Get This Wrong)
-
 Everyone's peddling "future-proof" skills these days. Prompt engineering courses. AI certification programs. Most of it is noise that'll be obsolete in six months.
 
 After automating dozens of workflows and watching countless professionals fumble with AI integration, I've identified four skills that actually matter. Not because they're trendy, but because they exploit the fundamental gaps between human and machine intelligence.
